@@ -1,0 +1,1 @@
+https://huggingface.co/adrianoropezal/sd-v1-4-oldbook-illustrations-lora
